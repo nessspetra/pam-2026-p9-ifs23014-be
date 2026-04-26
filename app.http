@@ -1,5 +1,5 @@
 ## Global Variables
-@baseurl=http://127.0.0.1:5000
+@baseurl=https://pam-2026-p9-ifs23014-be.nessspetra.fun:8080
 
 ### 1. Login Admin
 # @name Login
