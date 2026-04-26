@@ -3,3 +3,5 @@ sqlalchemy
 python-dotenv
 requests
 flask-cors
+flask-jwt-extended
+google-generativeai
